@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "c:\\Users\\nkancharla\\OneDrive - Microsoft\\Documents\\Azure\\AKS\\VDB\\Labs\\MathTrick\\Chained\\MT3Chained-Step1\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "c:\\Users\\nkancharla\\OneDrive - Microsoft\\Documents\\Azure\\AKS\\VDB\\Labs\\MathTrick\\Chained\\MT3Chained-Step1\\MT3Chained-Step1.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "MT3Chained-Step1",
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}
